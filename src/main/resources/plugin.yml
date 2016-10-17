@@ -1,0 +1,4 @@
+name: HorizonHub
+version: 1.0
+main: net.thehorizonmc.hub.Hub
+description: Hub plugin
